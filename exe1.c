@@ -32,6 +32,6 @@ int inserir(Fila *f, char valor){
 }
 
 int main(){
-
+    printf("Alteração no arquivo");
 
 return 0;}
